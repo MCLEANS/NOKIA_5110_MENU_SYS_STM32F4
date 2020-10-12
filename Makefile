@@ -6,6 +6,7 @@ CXX_SOURCES += clockconfig.cpp
 CXX_SOURCES += SPI.cpp
 CXX_SOURCES += NOKIA_5110.cpp
 CXX_SOURCES += GPIO.cpp
+CXX_SOURCES += EXTI.cpp
 
 #C SOURCE FILES
 #SOURCES  = main.c
